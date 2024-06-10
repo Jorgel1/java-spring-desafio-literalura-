@@ -40,31 +40,31 @@ O projeto utiliza as seguintes tecnologias e ferramentas:
 
 <h2> :computer: Projeto funcionando</h2>
 
-<img src="/literalura/src/main/java/br/com/jorge/literalura/img/img01.JPG" alt="Capturade imagem">
+<img src="/img/img01.JPG" alt="Capturade imagem">
 
 ---------------------------------------------------------------------------------------------
 
-<img src="/literalura/src/main/java/br/com/jorge/literalura/img/img02.JPG" alt="Capturade imagem">
-
-
----------------------------------------------------------------------------------------------
-
-<img src="/literalura/src/main/java/br/com/jorge/literalura/img/img03.JPG" alt="Capturade imagem">
+<img src="/img/img02.JPG" alt="Capturade imagem">
 
 
 ---------------------------------------------------------------------------------------------
 
-<img src="/literalura/src/main/java/br/com/jorge/literalura/img/img04.JPG" alt="Capturade imagem">
+<img src="/img/img03.JPG" alt="Capturade imagem">
 
 
 ---------------------------------------------------------------------------------------------
 
-<img src="/literalura/src/main/java/br/com/jorge/literalura/img/img05.JPG" alt="Capturade imagem">
+<img src="/img/img04.JPG" alt="Capturade imagem">
 
 
 ---------------------------------------------------------------------------------------------
 
-<img src="/literalura/src/main/java/br/com/jorge/literalura/img/img00.JPG" alt="Capturade imagem">
+<img src="/img/img05.JPG" alt="Capturade imagem">
+
+
+---------------------------------------------------------------------------------------------
+
+<img src="/img/img00.JPG" alt="Capturade imagem">
 
 
 ---------------------------------------------------------------------------------------------
